@@ -20,4 +20,4 @@ Aplikasi ini dibuat menggunakan tools:
 Keterangan:
 **************************
 
-Database:
+Database:project_uas.sql
